@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior: smooth;
+    behavior: inherit;
+}
+
+
+nav{
+    height: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 110px;
+}
+.logo{
+    height: 56px;
+    width: 175px;
+    background-image:url(ultraedit.webp);
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+}
+
+.anch{
+    font-size: 1rem;
+    width: 56%;
+    display: flex;
+    justify-content: space-between;
+    color: #222222;cursor: pointer;
+}
+.anch a i{
+    font-size: 1.4em;
+}
+.select{
+    padding: 2px 0 0 0 ;
+    border: transparent;
+    background-color: transparent;
+}.text{
+    color: #222222;
+    padding-top: 55px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.text p{
+    font-size: 3rem;
+}
+.text h1{
+    font-size: 3rem;
+    padding: 0 15px;
+}
+.text2{
+    width: 100%;
+    
+    padding-top: 100px;
+    font-size: 24px;
+    color: #222222;
+}
+.text2 p{
+    text-align: center;
+}
+#fd{
+    position: relative;
+    top: -25px;
+}
+.click{
+    margin-top: 10px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+#but{
+    height: 48px;
+    width: 292px;
+    background-color: #00b6d1;
+    border-radius: 6px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+}
+#but:hover{
+    background-color: #00a0b9;
+}
+#img{
+    height: 67px;
+    width: 70px;
+    border: 2px saddlebrown;
+    background-image:url(non.png);
+    background-size: cover;
+}
+.logotext{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+
+}
+.ent{
+    height: 100%;
+    width: 67%;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: #222222;
+}
+.ent p{
+    padding-left: 23px;
+    font-size: 24px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    color: #222222;
+}
+
+.hero{
+    margin-top: 30px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    height: 1050px;
+    width: 66%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box{
+    height: 200px;
+    width: 300px;
+    padding: 16px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.box h3{
+    color: #222222;
+}
+.int{
+    height: 98px;
+    padding: 8px 15px;
+    position: relative;
+    top: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: #222222;
+}
+.down{
+    width: 130px;
+    background-color: #5cb85c;
+    color: #ffffff;
+    padding: 8px 8px;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.down:hover{
+    background-color: #4d9e4d;
+}
+.oto a{
+    color: #222222;
+    font-size: 15px;
+}
+.gt{
+    display: flex;
+    justify-content: center;
+    height: 360px;
+    width: 100%;
+    background-color: #222222;
+}
+.mt1{
+    height: 264px;
+    width: 480px;
+    margin-top: 49px;
+    padding: 30px 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mt1 h3{
+    font-size: 24px;
+    color: #ffffff;
+}
+.mt1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mt1 span{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    color: #ffffff;
+    width: 450px;
+}
+.mt{
+    border: 2px solid rgb(189, 189, 189);
+    border-radius: 5%;
+    height: 264px;
+    width: 340px;
+    margin-top: 49px;
+    padding: 30px 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+}
+.mt h3{
+    color:  #00b6d1;
+    font-size: 21px;
+}
+.mt p{
+    position: relative;
+    top: 16px;
+    color: #222222;
+}
+.mt input{
+    height: 50px;
+    width: 245px;
+    padding: 10px;
+    border:1px solid rgb(204, 204, 204);
+}
+.pt{
+    background-color: #00c1df;
+    height: 47px;
+    width: 245px;
+    padding: 10px 11px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 5px;
+    position: relative;
+    bottom: 5px;
+    cursor: pointer;
+}
+/* last */
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 240px;
+    width: 100%;
+    padding: 0 17%;
+    position: relative;
+    bottom: 0px;
+}
+.logo2{
+    height: 50px;
+    width: 157px;
+    background-image:url(ultraedit.webp);
+    background-size: cover;
+    cursor: pointer;
+}
+.app{
+    color: #222222;
+   width: 436px;
+   height: 50px;
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   gap: 16px;
+   font-size: 26px
+}
+.boox{
+    height: 26px;
+    width: 26px;
+    cursor: pointer;
+}
+
+.boox:hover{
+    font-size: 28px;
+    color: #000000;
+}
+
+
+
+
