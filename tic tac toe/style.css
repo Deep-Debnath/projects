@@ -1,0 +1,42 @@
+.container1 {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    position: relative;
+    left: 40%;
+    top: 20%;
+
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    background-color: #a3c99f !important;
+}
+
+.box {
+    border: 4px solid black;
+    height: 33%;
+    width: 33%;
+    border-radius: 9px;
+    background-color: rgb(240, 199, 150);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    color: wheat;
+    transition: all .5s;
+    box-shadow: 4px 4px 14px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#head {
+    position: relative;
+    top: 18%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
