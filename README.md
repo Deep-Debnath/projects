@@ -21,7 +21,7 @@ A static clone of Amazon’s homepage — built purely with HTML & CSS to practi
 
 A fully functional calculator performing basic arithmetic operations with a clean UI.
 
-📸 **Screenshot:** ![screensshot_2](./images/calculator.png)
+📸 **Screenshot:** ![screensshot_2](./images/calculator_2.png)
 
 🧱 **Tech:** HTML, CSS, JavaScript
 
