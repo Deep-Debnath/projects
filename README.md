@@ -11,7 +11,8 @@ Each project focuses on improving UI design, logic building, and core web develo
 
 A static clone of Amazon’s homepage — built purely with HTML & CSS to practice layout structure and design consistency.
 
-📸 **Screenshot:** ![screenshot_1](./images/amazon.png)  
+📸 **Screenshot:** ![screenshot_1](./images/amazon.png)
+
 🧱 **Tech:** HTML, CSS
 
 ---
@@ -21,6 +22,7 @@ A static clone of Amazon’s homepage — built purely with HTML & CSS to practi
 A fully functional calculator performing basic arithmetic operations with a clean UI.
 
 📸 **Screenshot:** ![screensshot_2](./images/calculator.png)
+
 🧱 **Tech:** HTML, CSS, JavaScript
 
 ---
@@ -31,6 +33,7 @@ A simple currency converter app using **real-time exchange rates** fetched from 
 Demonstrates API fetching, dynamic DOM updates, and basic input validation.
 
 📸 **Screenshot:** ![screensshot_3](./images/currency.png)
+
 🧱 **Tech:** HTML, CSS, JavaScript, Currency API
 
 ---
@@ -40,6 +43,7 @@ Demonstrates API fetching, dynamic DOM updates, and basic input validation.
 A fun interactive game built using JavaScript, allowing users to play against the computer.
 
 📸 **Screenshot:** ![screensshot_2](./images/rockpappersissors.png)
+
 🧱 **Tech:** HTML, CSS, JavaScript
 
 ---
@@ -49,6 +53,7 @@ A fun interactive game built using JavaScript, allowing users to play against th
 Classic Tic Tac Toe game with two-player logic and simple UI animations.
 
 📸 **Screenshot:** ![screensshot_2](./images/tictactoe.png)
+
 🧱 **Tech:** HTML, CSS, JavaScript
 
 ---
@@ -58,6 +63,7 @@ Classic Tic Tac Toe game with two-player logic and simple UI animations.
 A simple UI clone of UltraEdit’s landing page, created to practice design replication.
 
 📸 **Screenshot:** ![screensshot_2](./images/ultraedit.png)
+
 🧱 **Tech:** HTML, CSS
 
 ---
