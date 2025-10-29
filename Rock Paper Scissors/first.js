@@ -6,8 +6,8 @@ const comp=document.querySelector("#comp");
 let choices=document.querySelectorAll(".t");
 const gencompchoice=(()=>{
     let option=["rock","paper","scissors"];
-    let randix=Math.floor(Math.random()*3);
-    return option[randix];
+    let rax=Math.floor(Math.random()*3);
+    return option[rax];
 })
 choices.forEach((choice)=>{
     choice.addEventListener("click",()=>{
